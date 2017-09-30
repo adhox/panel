@@ -1,5 +1,7 @@
 # Panel
 
+[I'm an inline-style link](https://www.google.com)
+
 Data analysis framework for Go.
 
 #### Examples
@@ -110,6 +112,6 @@ Upload a CSV and map a function
 <br>
 
 <hr>
-&copy; 2015-2016 
-[MIT License](https://www.github.com/openwonk/mit_license)
+<!-- &copy; 2015-2016  -->
+<!-- [MIT License](https://www.github.com/openwonk/mit_license) -->
 
