@@ -114,4 +114,4 @@ Upload a CSV and map a function
 <!-- &copy; 2015-2016  -->
 <!-- [MIT License](https://www.github.com/openwonk/mit_license) -->
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://www.github.com/openwonk/mit_license)
