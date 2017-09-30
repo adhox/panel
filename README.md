@@ -111,7 +111,7 @@ Upload a CSV and map a function
 <br>
 
 <hr>
-<!-- &copy; 2015-2016  -->
+&copy; 2017 
 <!-- [MIT License](https://www.github.com/openwonk/mit_license) -->
 
 [MIT License](https://www.github.com/openwonk/mit_license)
